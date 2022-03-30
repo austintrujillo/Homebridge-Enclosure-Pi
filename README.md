@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/austintrujillo/Homebridge-Enclosure-Pi/blob/e0dc39dcdf582df7c40a615a9f504cca93e64fb2/Misc/Images/TOP45.png" height="140">
+</p>
+
 <span align="center">
 
 # Homebridge Enclosure for RPi Zero W
