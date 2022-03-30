@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/austintrujillo/Homebridge-Enclosure-Pi/blob/e0dc39dcdf582df7c40a615a9f504cca93e64fb2/Misc/Images/TOP45.png" height="140">
+  <img src="https://github.com/austintrujillo/Homebridge-Enclosure-Pi/blob/55cf67e3892fce33442126a8bf4515b7896326c7/Misc/Images/readmeimage.png" height="160">
 </p>
 
 <span align="center">
