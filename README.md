@@ -22,10 +22,12 @@ Lipsum
 
 * [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
 * 4x [M3x8 Socket Head Screws (Fully Threaded)](https://www.mcmaster.com/screws/thread-size~m3/system-of-measurement~metric/alloy-steel-socket-head-screws-8/length~8-mm/)
-* [Micro USB Cable](https://www.amazon.com/MOVOYEE-Android-Charger-Samsung-Charging/dp/B09DSPBKD7/)
-* [Micro SD Card (Minimum 8GB)](https://www.amazon.com/SanDisk-Ultra-microSDXC-Memory-Adapter/dp/B073JWXGNT/)
+* [Micro USB Cable](https://www.amazon.com/dp/B09DSPBKD7/)
+* [Micro SD Card (Minimum 8GB)](https://www.amazon.com/dp/B073JWXGNT/)
 
 ## 3D Printing
+
+This was printed on an [Ender 5 Pro](https://www.creality.com/goods-detail/ender-5-pro-3d-printer) FDM printer using [white Hatchbox ABS](https://www.amazon.com/dp/B00J0H6NNM/). I printed with 100% infill with supports only on the underside of the lid. The print was finished using light sanding and acetone anealing. I am still working on finding an economical solution for coloring the lid while maintaining a clean and polished look.
 
 ## Installation
 
