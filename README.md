@@ -38,3 +38,7 @@ Pairing code
 ## Credit
 
 Homebridge was originally created by [Nick Farina](https://twitter.com/nfarina).
+
+<p align="center">
+  <img src="https://github.com/austintrujillo/Homebridge-Enclosure-Pi/blob/253db92c26341f4c74f8c9bbaa1b17de03d5a5a4/Misc/Images/readmeimage2.png" height="160">
+</p>
