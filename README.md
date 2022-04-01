@@ -35,9 +35,18 @@ This was printed on an [Ender 5 Pro](https://www.creality.com/goods-detail/ender
 
 ## Extras
 
-TODO - Pairing code instructions
-
 <img src="https://github.com/austintrujillo/Homebridge-Enclosure-Pi/blob/858dcd66f2c3bbc87457356d867654493e7b60e2/Misc/Images/pairingcodeexample.png" width="80">
+
+##### Generating Pairing Code
+
+1. Install dependancies by running `pip install Pillow qrcode`
+2. Run the python app using `python3 PairingCodeGen.py`
+3. Enter the X-Callback URL provided by Homebridge
+4. Enter the 8 digit pairing code provided by Homebridge
+
+It is recommended to print the image on [full sheet sticker paper](https://www.amazon.com/dp/B07Q61L831/) at 2.5cm wide.
+
+Cut out and affix to the rear center of the base.
 
 ## Credit
 
