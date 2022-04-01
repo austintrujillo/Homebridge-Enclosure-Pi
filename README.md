@@ -35,7 +35,7 @@ This was printed on an [Ender 5 Pro](https://www.creality.com/goods-detail/ender
 
 ## Extras
 
-Pairing code
+TODO - Pairing code instructions
 
 ## Credit
 
