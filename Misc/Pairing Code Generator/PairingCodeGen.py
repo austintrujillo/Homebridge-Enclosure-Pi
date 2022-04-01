@@ -5,7 +5,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 width, height, border = 666, 900, 73
 
-font_path = './Scancardium_2.0.ttf'
+font_path = './SF-Mono-Bold.otf'
 logo_path = './homekitLogo.png'
 
 def getXUrl():
@@ -54,10 +54,11 @@ def generateImage(xurl,code):
     # Generate Text
     code_img = ImageDraw.Draw(parent_img)
     font = ImageFont.truetype(font_path, 120)
-    code_img.text(((width-border)-290, border), c, font=font, fill=(0, 0, 0))
+    code_img.text(((width-border)-290, border/2), c, font=font, fill=(0, 0, 0))
 
     # Save pairing code image
     try:
+        parent_img.show()
         print("Pairing code successfully saved as homebridge_pairing_code.png")
     except:
         print("An error occured while saving the homebridge pairing code")
