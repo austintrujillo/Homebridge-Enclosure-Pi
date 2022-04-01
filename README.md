@@ -37,6 +37,8 @@ This was printed on an [Ender 5 Pro](https://www.creality.com/goods-detail/ender
 
 TODO - Pairing code instructions
 
+<img src="https://github.com/austintrujillo/Homebridge-Enclosure-Pi/blob/55cf67e3892fce33442126a8bf4515b7896326c7/Misc/Images/readmeimage.png" width="80">
+
 ## Credit
 
 Homebridge was originally created by [Nick Farina](https://twitter.com/nfarina).
