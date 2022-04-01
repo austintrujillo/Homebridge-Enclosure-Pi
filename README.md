@@ -37,7 +37,7 @@ This was printed on an [Ender 5 Pro](https://www.creality.com/goods-detail/ender
 
 TODO - Pairing code instructions
 
-<img src="https://github.com/austintrujillo/Homebridge-Enclosure-Pi/blob/55cf67e3892fce33442126a8bf4515b7896326c7/Misc/Images/readmeimage.png" width="80">
+<img src="https://github.com/austintrujillo/Homebridge-Enclosure-Pi/blob/858dcd66f2c3bbc87457356d867654493e7b60e2/Misc/Images/pairingcodeexample.png" width="80">
 
 ## Credit
 
